@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PastaPizzaNet.Drank">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAACAAABAAEAAAABAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PastaPizzaNet.Frisdrank">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAACAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Frisdrank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.Warmedrank">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAIACAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Warmedrank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.Gerecht">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAACAAABAAEAAAABAAAAAAAIAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Gerecht.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PastaPizzaNet.Pizza">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.Pasta">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAIAAAAAA=</HashCode>
+      <FileName>Pasta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.BesteldGerecht">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAABABEBACAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BesteldGerecht.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PastaPizzaNet.Dessert">
+    <Position X="13.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAACAAABAAEAAAABAAAAAAAIAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Dessert.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PastaPizzaNet.Klant">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAACAAAAAAEAAAABAAIAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Klant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.Bestelling">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAAiAhAAEAAEAAAAAAAgACgAAQAAAgAAAABE=</HashCode>
+      <FileName>Bestelling.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PastaPizzaNet.LijstKlanten">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>LijstKlanten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.LijstDesserts">
+    <Position X="14" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LijstDesserts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.LijstDranken">
+    <Position X="6.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LijstDranken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.LijstGerechten">
+    <Position X="1.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LijstGerechten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PastaPizzaNet.LijstBestellingen">
+    <Position X="9.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LijstBestellingen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PastaPizzaNet.IBedrag">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBedrag.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Enum.Grootte">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Enum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Enum.Extra">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Enum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Enum.Drank">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAAAACAAAAAAAAAAAAAgAAAAAAAAAEAACAA=</HashCode>
+      <FileName>Enum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
